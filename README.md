@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Name: hari krishnan S
+# Reg no:212224100020
 
 ## AIM:
 To create a warehouse application in salesforce.com
@@ -16,7 +18,8 @@ In Salesforce we can create, manage and customise both applications according to
 ## PROCEDURE
 
 ### Step 1: Log into your developer
-![Ex2-1](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/93b506fe-5542-4036-a344-939cbe7e67f3)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c91cd061-c287-4b0f-aa52-5eb83d886e0c" />
+
 
 ### Step 2: Click the Setup Link (upper-right corner).
  ![ex2-2](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/183746f5-0293-4cd4-bece-09eb8b7ed11e)
